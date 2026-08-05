@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="Kaelix" width="340" />
+<img src="assets/logo-azul.png" alt="Kaelix" width="340" />
 
 <br><br>
 
