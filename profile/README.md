@@ -26,7 +26,7 @@ equipes e empresas que buscam produtividade, qualidade e performance.
 
 <img src="assets/products/ui.svg" width="18" />
 
-<strong>Kaelix UI</strong>
+<strong>Kaelix UI</strong><br> <img src="https://img.shields.io/badge/em%20desenvolvimento-DC2626?style=flat-square" />
 
 </td>
 
@@ -42,7 +42,7 @@ Biblioteca de componentes React moderna e acessível.
 
 <img src="assets/products/starter.svg" width="18" />
 
-<strong>Kaelix Starter</strong>
+<strong>Kaelix Starter</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
@@ -58,13 +58,13 @@ Template React com o Kaelix UI pré-configurado para iniciar novos projetos rapi
 
 <img src="assets/products/flow.svg" width="18" />
 
-<strong>Kaelix Flow</strong>
+<strong>Kaelix Flow</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
 <td>
 
-Gestão de projetos, tarefas e colaboração entre equipes.
+Plataforma para gestão de projetos, tarefas e colaboração entre equipes.
 
 </td>
 </tr>
@@ -74,13 +74,13 @@ Gestão de projetos, tarefas e colaboração entre equipes.
 
 <img src="assets/products/finance.svg" width="18" />
 
-<strong>Kaelix Finance</strong>
+<strong>Kaelix Finance</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
 <td>
 
-Controle financeiro pessoal e empresarial simplificado.
+Solução para controle financeiro pessoal e empresarial.
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ Controle financeiro pessoal e empresarial simplificado.
 
 <img src="assets/products/mesh.svg" width="18" />
 
-<strong>Kaelix Mesh</strong>
+<strong>Kaelix Mesh</strong><br> <img src="https://img.shields.io/badge/em%20planejamento-4B4B55?style=flat-square" />
 
 </td>
 
